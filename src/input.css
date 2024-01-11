@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.navPage{
+    @apply text-white p-1 font-medium gap-5;
+}
